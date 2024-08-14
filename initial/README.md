@@ -22,7 +22,6 @@ openpyxl					# Excel 处理
 bokeh						# 交互式画图
 mplfinance					# matplotlib 画金融相关图像的封装
 yfinance					# 雅虎财经数据下载
-zipline-reloaded			# 量化交易回测框架
 selenium					# 模拟浏览器访问网站
 scrapy						# 爬虫框架
 scrapy_splash				# 模拟浏览器发请求
@@ -30,6 +29,12 @@ scrapy-random-useragent		# 随机 User-Agent ，爬虫相关
 furl						# 处理 URL 字符串的工具
 pykalman					# 卡尔曼滤波
 PyWavelets					# 小波变换
+zipline-reloaded			# 量化交易回测框架
+alphalens-reloaded			# 回测结果评估框架
+pyfolio-reloaded			# 投资组合优化框架
+Logbook						# 日志工具
+PyPortfolioOpt				# 投资组合优化工具
+sympy						# 数学运算库
 ```
 
 # 数据下载
@@ -43,3 +48,6 @@ PyWavelets					# 小波变换
 - `twitter_sentiment.ipynb`
 
 其中代码已经修改好，下载链接失效的地方也换成了手动下载。
+
+
+
