@@ -11,9 +11,9 @@ conda create -n ml4t python=3.11.9 jupyter pandas
 > ```
 
 ```sh
+# 数据及第二章
 matplotlib					# 画图基础包
 pandas_datareader			# 量化数据下载
-scikit-learn				# 机器学习
 tables						# hdf5 处理
 pyarrow						# parquet 处理
 tqdm						# 进度条
@@ -22,19 +22,29 @@ openpyxl					# Excel 处理
 bokeh						# 交互式画图
 mplfinance					# matplotlib 画金融相关图像的封装
 yfinance					# 雅虎财经数据下载
+
+# 第三章相关
 selenium					# 模拟浏览器访问网站
 scrapy						# 爬虫框架
 scrapy_splash				# 模拟浏览器发请求
 scrapy-random-useragent		# 随机 User-Agent ，爬虫相关
 furl						# 处理 URL 字符串的工具
+
+# 第四章相关
 pykalman					# 卡尔曼滤波
 PyWavelets					# 小波变换
 zipline-reloaded			# 量化交易回测框架
 alphalens-reloaded			# 回测结果评估框架
+
+# 第五章相关
 pyfolio-reloaded			# 投资组合优化框架
 Logbook						# 日志工具
 PyPortfolioOpt				# 投资组合优化工具
 sympy						# 数学运算库
+
+# 第六章相关
+scikit-learn				# 机器学习
+yellowbrick					# 机器学习可视化
 ```
 
 # 数据下载
