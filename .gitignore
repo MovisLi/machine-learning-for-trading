@@ -6,6 +6,7 @@
 *.pyd
 
 # ignore dataset
+*.h5
 *.xlsx
 *.xls
 *.xlsb

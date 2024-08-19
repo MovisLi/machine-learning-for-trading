@@ -45,6 +45,9 @@ sympy						# 数学运算库
 # 第六章相关
 scikit-learn				# 机器学习
 yellowbrick					# 机器学习可视化
+
+# 第七章相关
+linearmodels				# 有关资产定价的模型
 ```
 
 # 数据下载
